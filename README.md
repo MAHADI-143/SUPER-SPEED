@@ -15,9 +15,12 @@ pip install rich
 
 pip install mechanize
 
+rm -rf SUPER-SPEED
+
 git clone https://github.com/MAHADI-143/SUPER-SPEED.git
 
 cd SUPER-SPEED
 
 python3 MXSP.py
 ```
+`FREE TOOL ENJOY`
