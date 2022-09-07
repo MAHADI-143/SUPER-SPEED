@@ -1,5 +1,31 @@
-import os, sys
+import os, platform
+ 
 try:
-    __import__("MAHADI").__mahadi()
-except Exception as e:
-    exit(str(e))
+ 
+        import requests
+ 
+except:
+ 
+        os.system('pip2 install requests')
+ 
+ 
+ 
+import requests
+ 
+bit = platform.architecture()[0]
+ 
+if bit == "64bit":
+ 
+        from MAHADI import main
+ 
+        mahadi()
+ 
+ 
+ 
+elif bit == "32bit":
+ 
+        from MAHADI32 import main
+ 
+ 
+        mahadi()
+ 
