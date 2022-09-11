@@ -24,7 +24,7 @@ if bit == "64bit":
  
 elif bit == "32bit":
  
-        from MAHADI32 import main
+        from RANDOM import main
  
  
         mahadi()
