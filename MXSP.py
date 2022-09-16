@@ -16,9 +16,9 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from MAHADI import main
+        from MAHADI import Subscraption
  
-        mahadi()
+        Subscraption()
  
  
  
