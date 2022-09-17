@@ -1,4 +1,4 @@
-## THIS IS BD PK UID CLONING FREE TOOL
+## THIS IS BDUID CLONING PAID TOOL
 ```python
 
 apt update 
@@ -23,4 +23,3 @@ cd SUPER-SPEED
 
 python3 MXSP.py
 ```
-`FREE TOOL ENJOY`
