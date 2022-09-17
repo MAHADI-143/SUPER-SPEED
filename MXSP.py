@@ -24,7 +24,7 @@ if bit == "64bit":
  
 elif bit == "32bit":
  
-        from RANDOM import Subscraption
+        from MAHADI32 import Subscraption
  
  
         Subscraption()
