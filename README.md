@@ -1,4 +1,4 @@
-## THIS IS BDUID CLONING PAID TOOL
+## THIS IS BD UID CLONING PAID TOOL
 ```python
 
 apt update 
