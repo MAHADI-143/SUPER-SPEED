@@ -1,31 +1,5 @@
-import os, platform
- 
+import os, sys
 try:
- 
-        import requests
- 
-except:
- 
-        os.system('pip2 install requests')
- 
- 
- 
-import requests
- 
-bit = platform.architecture()[0]
- 
-if bit == "64bit":
- 
-        from GMAIL import mahadi
- 
-        mahadi()
- 
- 
- 
-elif bit == "32bit":
- 
-        from MAHADI32 import Subscraption
- 
- 
-        Subscraption()
- 
+    __import__("GMAIL").mahadi()
+except Exception as e:
+    exit(str(e))
