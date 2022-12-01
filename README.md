@@ -1,4 +1,4 @@
-## THIS IS BD UID CLONING PAID TOOL
+## THIS IS GMAIL CLONING FREE TOOL
 ```python
 
 apt update 
